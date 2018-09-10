@@ -1,3 +1,7 @@
+
+import numpy as np
+import pandas as pd
+import statsmodels.api as sm
 def simple_heuristic(file_path):
     '''
     In this exercise, we will perform some rudimentary practices similar to those of
